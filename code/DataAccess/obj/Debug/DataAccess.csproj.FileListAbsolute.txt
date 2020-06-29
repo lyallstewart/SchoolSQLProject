@@ -1,0 +1,11 @@
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\bin\Debug\DataAccess.dll.config
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\bin\Debug\DataAccess.dll
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\bin\Debug\DataAccess.pdb
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\bin\Debug\EntityFramework.dll
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\bin\Debug\EntityFramework.xml
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\obj\Debug\DataAccess.dll
+S:\Coding\Projects\SchoolSQLProject\code\DataAccess\obj\Debug\DataAccess.pdb

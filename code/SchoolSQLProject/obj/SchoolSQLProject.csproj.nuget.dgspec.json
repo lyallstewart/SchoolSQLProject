@@ -4,6 +4,17 @@
     "S:\\Coding\\Projects\\SchoolSQLProject\\code\\SchoolSQLProject\\SchoolSQLProject.csproj": {}
   },
   "projects": {
+    "S:\\Coding\\Projects\\SchoolSQLProject\\code\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\Coding\\Projects\\SchoolSQLProject\\code\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "S:\\Coding\\Projects\\SchoolSQLProject\\code\\DataAccess\\DataAccess.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "S:\\Coding\\Projects\\SchoolSQLProject\\code\\SchoolSQLProject\\SchoolSQLProject.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +42,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "S:\\Coding\\Projects\\SchoolSQLProject\\code\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "S:\\Coding\\Projects\\SchoolSQLProject\\code\\DataAccess\\DataAccess.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

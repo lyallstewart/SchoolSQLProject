@@ -1,0 +1,5 @@
+S:\Coding\Projects\SchoolSQLProject\code\SchoolSQLProject\obj\Debug\netcoreapp3.1\SchoolSQLProject.csprojAssemblyReference.cache
+S:\Coding\Projects\SchoolSQLProject\code\SchoolSQLProject\obj\Debug\netcoreapp3.1\SchoolSQLProject.csproj.CoreCompileInputs.cache
+S:\Coding\Projects\SchoolSQLProject\code\SchoolSQLProject\obj\Debug\netcoreapp3.1\SchoolSQLProject.MvcApplicationPartsAssemblyInfo.cache
+S:\Coding\Projects\SchoolSQLProject\code\SchoolSQLProject\obj\Debug\netcoreapp3.1\SchoolSQLProject.AssemblyInfoInputs.cache
+S:\Coding\Projects\SchoolSQLProject\code\SchoolSQLProject\obj\Debug\netcoreapp3.1\SchoolSQLProject.AssemblyInfo.cs
