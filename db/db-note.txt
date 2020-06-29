@@ -1,0 +1,2 @@
+Hi!
+I wasn't sure exactly how you would clone the database to your machine so I just pasted the file here.
